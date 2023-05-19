@@ -1,6 +1,6 @@
-package com.lannstark.lec02;
+package com.practice.lec02;
 
-import org.jetbrains.annotations.NotNull;
+import org.jetbrains.annotations.Nullable;
 
 public class Person {
 
@@ -10,7 +10,7 @@ public class Person {
         this.name = name;
     }
 
-    @NotNull
+    @Nullable
     public String getName() {
         return name;
     }
