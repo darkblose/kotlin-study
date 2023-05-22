@@ -1,5 +1,7 @@
 package com.practice.lec03
 
+import com.lannstark.lec03.Person
+
 fun main() {
     val number1 = 1
     val number2: Long = number1.toLong()
